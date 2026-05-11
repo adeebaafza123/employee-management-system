@@ -1,63 +1,71 @@
 # 👨‍💼 Employee Management System
 
-A web-based Employee Management System developed using HTML, CSS, and JavaScript for managing employee records and information.
+A desktop-based Employee Management System developed using C# and Windows Forms in Visual Studio.
+
+This Visual Programming project helps manage employee information, attendance, and salary records through a simple graphical user interface.
 
 ---
 
 # 📌 Features
 
-- Add employee records
-- Manage employee information
-- Interactive user interface
-- Responsive web design
-- Simple and user-friendly layout
+- Employee record management
+- Attendance management
+- Salary management
+- User-friendly GUI
+- Multiple forms and navigation system
 
 ---
 
 # 🛠 Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+- C#
+- .NET Framework
+- Windows Forms
+- Visual Studio
 
 ---
 
 # 📂 Project Structure
 
 ```bash
-Employee_Management_System/
+EmployeeManagementSystem/
 │
-├── index.html
-├── style.css
-├── script.js
-└── assets/
+├── Form1.cs
+├── Employee.cs
+├── Attendance.cs
+├── Salary.cs
+├── View.cs
+├── home.cs
+├── Program.cs
+└── employeemanagementsystem.sln
 ```
 
 ---
 
 # 🚀 How to Run
 
-1. Download or clone the repository
-2. Open the project folder
-3. Run `index.html` in browser
+1. Open the project in Visual Studio
+2. Open `employeemanagementsystem.sln`
+3. Build the solution
+4. Run the application
 
 ---
 
 # 🎯 Project Objectives
 
-- Learn frontend web development
-- Practice JavaScript functionality
-- Improve UI/UX skills
-- Build responsive web applications
+- Learn Visual Programming concepts
+- Practice C# Windows Forms development
+- Build desktop management systems
+- Understand GUI-based applications
 
 ---
 
 # 🔮 Future Improvements
 
-- Add backend integration
-- Add database support
-- Implement login system
-- Improve employee search functionality
+- Add database integration
+- Improve UI design
+- Add login/authentication system
+- Generate reports automatically
 
 ---
 
@@ -65,4 +73,4 @@ Employee_Management_System/
 
 Adeeba Afzal
 
-BSCS Student | Web Development Learner
+BSCS Student | C# & Visual Programming Learner
